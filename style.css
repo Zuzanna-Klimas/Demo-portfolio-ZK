@@ -1,0 +1,83 @@
+body {
+    font-family: sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+.character-creator {
+    display: flex;
+    gap: 50px;
+    align-items: flex-start;
+}
+
+/* KLUCZOWY ELEMENT: Kontener na postać */
+.character-preview {
+    width: 300px; /* Ustaw szerokość taką samą jak Twoje obrazki */
+    height: 300px; /* Ustaw wysokość taką samą jak Twoje obrazki */
+    position: relative; /* To pozwala na pozycjonowanie obrazków wewnątrz */
+    border: 2px solid #ccc;
+    background-color: #fff;
+}
+
+/* KLUCZOWY ELEMENT: Wszystkie warstwy postaci */
+.character-preview img {
+    position: absolute; /* Nakłada obrazki na siebie */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /* Kolejność nakładania się warstw (wyższa liczba = wyżej) */
+    /* Dostosuj to do swoich potrzeb! */
+}
+#skin-layer { z-index: 1; }
+#eyes-layer { z-index: 2; }
+#shirt-layer { z-index: 3; }
+#hair-layer { z-index: 4; }
+/* np. okulary miałyby z-index: 5; */
+
+
+.controls {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.control-category {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    min-width: 250px;
+}
+
+.control-category h2 {
+    margin: 0;
+    font-size: 1em;
+    flex-grow: 1; /* Rozpycha nazwę, aby przyciski były na końcu */
+}
+
+.control-category button {
+    font-size: 1.2em;
+    padding: 5px 10px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    background-color: #e9e9e9;
+}
+
+.control-category span {
+    font-weight: bold;
+    min-width: 80px; /* Zapewnia stałą szerokość, by layout nie "skakał" */
+    text-align: center;
+}
