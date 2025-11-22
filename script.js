@@ -1,7 +1,7 @@
 
 const assets = {
     skin: [
-        "images/skin1.png" 
+        "images/skin/skin1.png" 
     ],
     eyes: [
         "images/eyes1.png" 
