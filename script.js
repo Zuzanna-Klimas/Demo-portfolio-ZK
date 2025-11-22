@@ -4,16 +4,16 @@
 // WERSJA PO POPRAWCE (PRAWIDŁOWA)
 const assets = {
     skin: [
-        'images/skin1.png' // <-- ZMIANA TUTAJ
+        /images/skin1.png' // <-- ZMIANA TUTAJ
     ],
     eyes: [
-        'images/eyes 1.png' // <-- ZMIANA TUTAJ (uważaj na spację!)
+        /images/eyes 1.png' // <-- ZMIANA TUTAJ (uważaj na spację!)
     ],
     hair: [
-        'images/hair 1.png' // <-- ZMIANA TUTAJ (uważaj na spację!)
+        /images/hair 1.png' // <-- ZMIANA TUTAJ (uważaj na spację!)
     ],
     shirt: [
-        'images/shirt1.png' // <-- ZMIANA TUTAJ
+        /images/shirt1.png' // <-- ZMIANA TUTAJ
     ]
 };
 // --- KONIEC KONFIGURACJI ---
