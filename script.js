@@ -1,23 +1,19 @@
 // --- TWOJA KONFIGURACJA ---
 // Tutaj dodajesz ścieżki do swoich obrazków.
 // Po prostu dodaj kolejne nazwy plików do odpowiednich list.
+// WERSJA PO POPRAWCE (PRAWIDŁOWA)
 const assets = {
     skin: [
-        'images/skin/skin_1.png',
-        'images/skin/skin_2.png',
-        // 'images/skin/skin_3.png', // np. dodając kolejny
+        'images/skin1.png' // <-- ZMIANA TUTAJ
     ],
     eyes: [
-        'images/eyes/eyes_1.png',
-        'images/eyes/eyes_2.png',
+        'images/eyes 1.png' // <-- ZMIANA TUTAJ (uważaj na spację!)
     ],
     hair: [
-        'images/hair/hair_1.png',
-        'images/hair/hair_2.png',
+        'images/hair 1.png' // <-- ZMIANA TUTAJ (uważaj na spację!)
     ],
     shirt: [
-        'images/shirt/shirt_1.png',
-        'images/shirt/shirt_2.png',
+        'images/shirt1.png' // <-- ZMIANA TUTAJ
     ]
 };
 // --- KONIEC KONFIGURACJI ---
