@@ -1,22 +1,19 @@
-// --- TWOJA KONFIGURACJA ---
-// Tutaj dodajesz ścieżki do swoich obrazków.
-// Po prostu dodaj kolejne nazwy plików do odpowiednich list.
-// WERSJA PO POPRAWCE (PRAWIDŁOWA)
+
 const assets = {
     skin: [
-        /images/skin1.png // <-- ZMIANA TUTAJ
+        "images/skin1.png" 
     ],
     eyes: [
-        /images/eyes1.png // <-- ZMIANA TUTAJ (uważaj na spację!)
+        "images/eyes1.png" 
     ],
     hair: [
-        /images/hair1.png // <-- ZMIANA TUTAJ (uważaj na spację!)
+        "images/hair1.png" 
     ],
     shirt: [
-        /images/shirt1.png // <-- ZMIANA TUTAJ
+        "images/shirt1.png" 
     ]
 };
-// --- KONIEC KONFIGURACJI ---
+
 
 
 // Obiekt, który przechowuje aktualnie wybrany indeks dla każdej kategorii
