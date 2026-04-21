@@ -1,0 +1,579 @@
+:: StoryTitle
+Untitled Story
+
+
+:: StoryData
+{
+  "ifid": "F4D4D9AF-EC0F-47FD-93F3-83CB3F952A88",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Untitled Passage",
+  "zoom": 1
+}
+
+
+:: \ Extended Ending – The Scapegoat {"position":"700,725","size":"100,100"}
+The soldiers drag the girl out before dawn.
+
+The boy shouts after them.
+No one listens.
+
+By noon, the story spreads across Novigrad.
+
+A witch uncovered.
+Justice served.
+
+The pyre burns near the docks.
+
+Smoke rises high enough for everyone to see.
+
+For a brief moment, the city feels safer.
+
+But the tavern does not.
+
+Within days, new customers fall ill.
+
+The same cough.
+The same pale skin.
+The same red-stained cloth.
+
+The blood on the tavern floor was never hers.
+
+And what was born there was never lifted.
+
+People stop coming.
+
+Tables gather dust.
+The sign above the door rotates in silence.
+
+Zoltan survives.
+
+The tavern does not.
+
+
+:: Confront them {"position":"500,675","size":"100,100"}
+The boy speaks first.
+
+"It wasn't us," he says quickly. "We didn't poison anyone."
+
+The girl stares at the floor.
+
+"We were there during the tournament," he admits. "When it happened."
+
+Geralt says nothing. He simply waits.
+
+The boy swallows.
+
+"My father… he hasn't been the same since my mother left. He drinks more. He talks louder. He laughs at inappropriate things."
+
+He hesitates.
+
+"During the tournament, he humiliated a girl. In front of everyone. He said things he shouldn't have. He treated her like she was nothing."
+
+The girl nods slowly.
+
+"She objected. She was furious. She was shaking."
+
+"There were screams," the boy continues. "She tripped. She cut her hand on broken glass."
+
+Geralt's vision sharpens.
+
+“Blood on the inn floor.”
+
+The girl lifts her head.
+
+“My grandmother always said that strong emotions and blood can stick to a place. If words are spoken with enough pain… they stay.”
+
+“So you thought you could reverse it,” Geralt says calmly.
+
+The boy nods.
+
+“We didn’t want anyone else to suffer from this.”
+
+Geralt looks at them for a long moment.
+
+“If this curse started that night, then the key is this girl.”
+
+The boy shifts uncomfortably.
+
+“We don’t know where she lives,” he admits. “No one does.”
+
+The girl adds quietly, “Only his father would know. He brought her there.”
+
+A silence falls between them.
+
+If Geralt wants to know the truth, he’ll have to talk to the innkeeper again.
+
+[[Tell the innkeeper what you learned]]
+
+
+:: Ending – Silence and Decay {"position":"425,1450","size":"100,100"}
+The curse slowly weakens over time.
+
+No ritual can wash it away.
+
+Zoltan survives, but his cough never fully disappears.
+
+The inn's reputation suffers. Customers stop dining there.
+
+Within a few months, the innkeeper closes his doors.
+
+Some wounds heal.
+
+Others remain forever.
+
+
+:: Go out and confront them {"position":"575,550","size":"100,100"}
+Geralt steps closer before the ritual begins.
+
+The young couple jumps in terror.
+
+On the floor: herbs arranged in a circle.
+
+An egg carefully placed in the center.
+
+A small, worn book lies open between them.
+
+"What are you doing?" Geralt asks.
+
+"We're trying to lift the curse," the girl says quickly. "Before more people suffer."
+
+Geralt studies the primitive preparations.
+
+This is not the work of a master magician.
+
+[[Confront them]]
+
+
+:: Go out and report them to the guards {"position":"700,600","size":"100,100"}
+Geralt leaves the cellar without a word.
+
+Upstairs, the young couple freezes as they see him emerge from the shadows.
+
+On the inn's floor, herbs are arranged in a crude circle.
+
+An egg lies in the center.
+
+The girl looks pale.
+
+The boy clutches a small, worn book.
+
+Geralt says nothing.
+
+He turns and walks out into the night.
+
+As if on cue, a patrol of Redanian soldiers emerges from around the corner.
+
+"They're inside," Geralt says dispassionately. "Practicing magic. Probably related to the illness."
+
+The soldiers don't hesitate.
+
+Geralt doesn't stay to watch.
+
+[[ Extended Ending – The Scapegoat]]
+
+
+:: Go to the girl's address {"position":"500,1200","size":"100,100"}
+The market district is quieter at this hour.
+
+Geralt easily finds the blue door.
+
+It's ajar.
+
+The room inside is small and almost empty.
+
+A travel bag lies on the bed.
+Clothes have been hastily folded.
+The window is slightly ajar.
+
+The girl stands at the table, pale and exhausted.
+
+She doesn't look surprised to see him.
+
+"I was supposed to go out tonight," she says quietly.
+
+[[Use Axii]]
+[[Speak coldly]]
+[[Speak with understanding]]
+
+
+:: Go to the tavern near the docks {"position":"575,300","size":"100,100"}
+The inn is louder than it should be.
+
+Not with music—with anger.
+
+A crowd has gathered outside, shouting over each other. Accusations. Demands. Someone shouts about poison. Someone else about witches.
+
+Geralt pushes through them without a word.
+
+The air is thick inside.
+
+The innkeeper stands behind the counter, polishing the same mug over and over again. His hands are shaking.
+
+"I didn't poison anyone," he says before Geralt can speak. "You have to believe me. This place is all I have."
+
+He looks desperate. Almost broken.
+
+He's asking for help.
+
+But the moment Geralt starts asking questions—about the tournament, about who was there, about possible arguments—the innkeeper stiffens.
+
+"I don't remember every drunken fool who comes in here," he mutters. “You won't find anything here.”
+
+Geralt turns to leave.
+
+Something catches his eye near the edge of the wooden floor.
+
+A dark red stain.
+
+Cleaned. But not well enough.
+
+For a brief moment, a strange weight presses on his chest. Not pain. Just… pressure.
+
+Outside, the crowd presses again, furious and frightened.
+
+Before things get ugly, Geralt leads the innkeeper out a side exit and into the house.
+
+Once the man is safely inside, Geralt turns toward the inn.
+
+If there are any answers, he must look for them there.
+
+[[Return to the inn]]
+
+
+:: Offer coin for information {"position":"700,950","size":"100,100"}
+Geralt places a small pouch of coins on the table.
+
+"For the truth."
+
+The innkeeper stares at her for a long moment.
+
+Then he sighs.
+
+"Fish market district. Second floor. Blue door."
+
+He avoids Geralt's gaze.
+
+"I didn't think he'd curse this place."
+
+[[Go to the girl's address]]
+
+
+:: Return to the inn {"position":"575,425","size":"100,100"}
+By the time Geralt returned, the crowd was gone.
+
+Only the broken windows and silence remained.
+
+Glass crunched underfoot as he entered.
+
+The inn seemed smaller now. Tables were overturned. Chairs were shattered. Someone had carved the word "POISON" into the wooden bar.
+
+Fear works quickly.
+
+Geralt searched carefully.
+
+Behind the counter.
+
+Under the tables.
+
+In the storage crates.
+
+No vials. No powders. No hidden alchemical tools.
+
+Only the same dark stain on the floor – deeper when he saw it this time.
+
+As he kneels closer, the pressure returns.
+
+Weak. Magical.
+
+Not strong enough for an experienced wizard.
+
+But real.
+
+He heads towards the basement.
+
+The air grows colder as it descends.
+
+Barrels. Dust. Damp stone.
+
+Nothing.
+
+No ritual circles.
+
+No signs of brewing toxins.
+
+Only silence.
+
+Then…
+
+The sound of the front door opening upstairs.
+
+Voices.
+
+A young man. Nervous.
+
+A girl. Quieter, but calm.
+
+Geralt freezes in the darkness.
+
+“Did you bring a book from Grandma?” the girl whispers.
+
+“Yes. And you? Herbs? And eggs?” the boy replies.
+
+A pause.
+
+“If this doesn’t work…”
+
+“It has to work.”
+
+Their footsteps approach the entrance.
+
+Geralt has three options.
+
+[[Stay hidden and listen]]
+[[Go out and confront them]]
+[[Go out and report them to the guards]]
+
+
+:: Return to the inn with her {"position":"625,1450","size":"100,100"}
+The inn is silent as they return.
+
+The innkeeper stands paralyzed at the sight of her.
+
+He lights some herbs.
+
+Smoke fills the room.
+
+This time he speaks carefully.
+
+No anger. No fury.
+
+Only release.
+
+The burden in the inn lifts.
+
+The curse is gone.
+
+Later, in front of the gathered residents, the innkeeper admits his guilt.
+
+He apologizes.
+
+Some forgive him.
+
+Others do not.
+
+The inn remains open.
+
+But it is not the same place.
+
+
+:: Speak coldly {"position":"500,1325","size":"100,100"}
+“If you cursed the inn, you'll take it back,” Geralt says dispassionately.
+
+The girl laughs bitterly.
+
+“Now you care about the consequences?”
+
+She shakes her head.
+
+“He didn't care.”
+
+He refuses to return.
+
+She leaves the city within a few days.
+
+[[Ending – Silence and Decay]]
+
+
+:: Speak with understanding {"position":"625,1325","size":"100,100"}
+Geralt lowers his voice.
+
+"He hurt you."
+
+She nods slowly.
+
+"I trusted him," she whispers. "And he made sure everyone knew I was stupid."
+
+Tears gather in her eyes, but she doesn't let them fall.
+
+"I didn't want to curse anyone. I just... I screamed... I didn't think I could bring a curse."
+
+Geralt looks at her.
+
+"If you call it off, people will stop suffering. Because right now, it's people who aren't to blame who are suffering."
+
+A long silence.
+
+Finally, she nods.
+
+"I'll help. But he'll tell the truth. In front of them all."
+
+[[Return to the inn with her]]
+
+
+:: Stay hidden and listen {"position":"450,550","size":"100,100"}
+Geralt remains in the darkness of the basement stairs.
+
+Upstairs, a young couple kneels on the inn's floor.
+
+The herbs form an irregular circle.
+
+The egg lies in the center.
+
+The girl takes a breath and begins to chant:
+
+"Odi illam anum aquosam quae lutum in cameram iacit.
+
+Sed amo pugnas chartarum.
+
+Bene tibi sit."
+
+Silence falls.
+
+Nothing happens.
+
+Geralt almost smiles.
+
+Either someone taught her the wrong words...
+
+or she didn't know them at all.
+
+She steps out of the shadows.
+
+"That won't work," she says calmly. "Unless the curse is afraid of the water witch."
+
+They both turn to him, terrified.
+
+[[Confront them]]
+
+
+:: Tell the innkeeper what you learned {"position":"500,800","size":"100,100"}
+The innkeeper's quarters smell worse than the inn.
+
+Stale beer. Sweat. Regret.
+
+The floor is covered with broken bottles. A chair lies overturned. The shutters are ajar, letting in thin slivers of cold light.
+
+Geralt sees a man sitting on the floor, leaning against the wall, a bottle dangling loosely from his fingers.
+
+He slowly looks up.
+
+"I told you... I don't know anything."
+
+Geralt doesn't answer immediately.
+
+He looks around the room.
+
+A man who has already lost something.
+
+Perhaps something more than just his reputation. 
+
+[[Use Axii to force the truth]]
+[[Threaten him]]
+[[Offer coin for information]]
+
+
+:: Threaten him {"position":"500,925","size":"100,100"}
+Geralt steps closer.
+
+"If anyone dies because of you, I'll make sure you remember that."
+
+The innkeeper clenches his jaw.
+
+"I told you everything."
+
+He turns his face away.
+
+Geralt leaves, bringing nothing new.
+
+[[Try a different approach]]
+
+
+:: Try a different approach {"position":"500,1050","size":"100,100"}
+Threats won't break him.
+
+Not like this.
+
+[[Use Axii to force the truth]]
+[[Offer coin for information]]
+
+
+:: Untitled Passage {"position":"575,175","size":"100,100"}
+Novigrad never smelled clean.
+
+Salt from the sea mixed with smoke from the chimneys, but today something else lingered in the air — tension.
+
+People were quieter. Watching. Whispering.
+
+Geralt didn’t need rumors to know something was wrong.
+
+He found Zoltan in one of the city wards, sitting upright only because pride wouldn’t let him lie down.
+
+"You picked a bad time to visit," the dwarf rasped, pressing a stained cloth to his mouth. "Feels like I swallowed broken glass."
+
+Blood. Not much. But enough.
+
+Around him, others looked the same — pale, sweating, eyes red from strain. Not drunk. Not poisoned. Something else.
+
+They had nothing in common.
+
+Except one thing.
+
+Each of them had spent the previous evening at a tavern near the docks.
+A place known for cheap ale and loud gwent tournaments.
+
+And now the city was starting to talk.
+
+Poison.
+Curses.
+Czarownice.
+
+Geralt exhaled slowly.
+
+If this turned into panic, someone would end up burning for it.
+
+[[Go to the tavern near the docks]]
+
+
+:: Use Axii {"position":"375,1325","size":"100,100"}
+Geralt's eyes flashed faintly.
+
+"Tell me what happened."
+
+Her shoulders stiffen. Her voice becomes distant.
+
+She explains the argument.
+
+Humiliation.
+
+Blood.
+
+Words she spoke in anger.
+
+When the effect wears off, she steps back.
+
+"You had no right."
+
+Her expression hardens.
+
+"I can't fix this. Let him live with it."
+
+By morning, she disappears from Novigrad.
+
+[[Ending – Silence and Decay]]
+
+
+:: Use Axii to force the truth {"position":"300,950","size":"100,100"}
+Geralt's eyes twinkled slightly.
+
+"Look at me," he said quietly.
+
+The innkeeper's resistance weakened.
+
+"She lived near the fish market," he murmured. "A small, rented room. Second floor. Blue door."
+
+His voice trembled.
+
+"I didn't want it to go this far."
+
+[[Go to the girl's address]]
